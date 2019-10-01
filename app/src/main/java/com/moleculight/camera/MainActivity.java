@@ -166,13 +166,13 @@ public class MainActivity extends AppCompatActivity {
         /* Opening both cameras simultaneously resulted in listener and camera object access issues.
          * Hence, opened the back camera after 5 seconds delay.
          * */
-        final Handler openBackCameraHandler = new Handler();
+        /*final Handler openBackCameraHandler = new Handler();
         openBackCameraHandler.postDelayed(new Runnable() {
 
             public void run() {
                 btn_back_camera.performClick();
             }
-        }, 5000);
+        }, 5000);*/
 
         // updating respective UI views
         updateFrontCameraButtonText();
