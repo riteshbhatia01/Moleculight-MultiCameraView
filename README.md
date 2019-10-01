@@ -27,4 +27,4 @@ Be able to run the app on a device using Android 7.1 (Nougat)
 
 ### References
 
-* [Came2BasicJava](https://github.com/android/camera-samples/tree/master/Camera2BasicJava)
+* [Camera2BasicJava](https://github.com/android/camera-samples/tree/master/Camera2BasicJava)
