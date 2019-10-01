@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MultiCameraApp</string>
+    <string name="save">Save</string>
+    <string name="back_camera">Back Camera:</string>
+    <string name="front_camera">Front Camera:</string>
+    <string name="camera_loading">Loading...</string>
+    <string name="start_front_camera">Start Front Camera</string>
+    <string name="stop_front_camera">Stop Front Camera</string>
+    <string name="start_back_camera">Start Back Camera</string>
+    <string name="stop_back_camera">Stop Back Camera</string>
+    <string name="image_saved">Image Save Successfully</string>
+    <string name="image_failed">Image Save Failed</string>
+    <string name="configuration_changed">Configuration changed</string>
+    <string name="update_preview_error">Error in updating preview</string>
+    <string name="warning_camera_permission">"Sorry!!!, you can't use this app without granting camera permission"</string>
+    <string name="warning_storage_permission">Save picture feature will not work without access to external storage.</string>
+    <string name="grant_storage_permission">"Write External Storage permission allows us to save files. Please allow this permission in App Settings."</string>
+    <string name="camera">CAM :</string>
+</resources>
